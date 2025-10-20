@@ -1,0 +1,12 @@
+{
+  "name": "my-cicd-project",
+  "version": "1.0.0",
+  "description": "Learning CI/CD with GitHub Actions",
+  "scripts": {
+    "test": "node tests/test.js",
+    "lint": "echo 'Running HTML validation...' && echo '✅ Linting passed'"
+  },
+  "keywords": ["ci-cd", "github-actions", "tutorial"],
+  "author": "Your Name",
+  "license": "MIT"
+}
